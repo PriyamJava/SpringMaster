@@ -1,4 +1,4 @@
-package com.priyam.learnspring.MasterSpring.Repository.modal;
+package com.priyam.learnspring.MasterSpring.modal;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
